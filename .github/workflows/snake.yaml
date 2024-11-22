@@ -6,7 +6,7 @@ on:
   workflow_dispatch:      # Manual trigger
   push:
     branches:
-      - master          # Changed from 'main' to 'master' since I noticed your default branch is master
+      - main          # Changed from 'main' to 'master' since I noticed your default branch is master
 
 jobs:
   generate:
