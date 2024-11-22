@@ -20,6 +20,6 @@ Welcome to My GitHub Profile! 👋<br>Hi there! I'm a Junior at the University o
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/agene0001/agene0001/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/agene0001/agene0001/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/agene0001/agene0001/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/agene0001/agene0001/output/github-snake-dark.svg" />
 </picture>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
