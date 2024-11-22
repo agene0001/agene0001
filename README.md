@@ -17,7 +17,7 @@ Welcome to My GitHub Profile! 👋<br>Hi there! I'm a Junior at the University o
 
 ---
 [![](https://visitcount.itsvg.in/api?id=agene0001&icon=0&color=0)](https://visitcount.itsvg.in)
-<img src="https://raw.githubusercontent.com/agene0001/agene0001/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/agene0001/agene0001/output/github-snake.svg" alt="Snake animation" />
 
 ###
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
