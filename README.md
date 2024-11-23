@@ -1,6 +1,7 @@
 # 💫 About Me:
 Welcome to My GitHub Profile! 👋<br>I'm a Junior at the University of Minnesota, Twin Cities, majoring in Computer Science with a focus on Web Development and Data Science. 🌟<br><br>I'm passionate about creating impactful software solutions and exploring the intersections of technology and data. My projects often blend creativity with functionality, whether it's building intuitive web applications or diving into data-driven insights.<br><br>🔧 Skills & Interests<br>Web Development: React, Next.js, Tailwind CSS, and more.<br>Data Science: Python, SQL, Machine Learning, and Data Visualization.<br>Tools & Tech: Docker, GitHub Actions, Google Cloud, and API Integration.<br>🚀 What I’m Working On<br>Building modern, scalable web apps with clean and responsive designs.<br>Exploring the power of data to solve real-world problems.<br>Continuously learning new technologies to expand my expertise.
-
+![GitHub Snake dark](https://raw.githubusercontent.com/agene0001/agene0001/output/github-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake light](https://raw.githubusercontent.com/agene0001/agene0001/output/github-snake.svg#gh-light-mode-only)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felix-agene/) 
@@ -15,6 +16,5 @@ Welcome to My GitHub Profile! 👋<br>I'm a Junior at the University of Minnesot
 
 ---
 [![](https://visitcount.itsvg.in/api?id=agene0001&icon=0&color=0)](https://visitcount.itsvg.in)
-![GitHub Snake dark](https://raw.githubusercontent.com/agene0001/agene0001/output/github-snake-dark.svg#gh-dark-mode-only)
-![GitHub Snake light](https://raw.githubusercontent.com/agene0001/agene0001/output/github-snake.svg#gh-light-mode-only)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
